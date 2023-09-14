@@ -1,3 +1,4 @@
+//#3 Schemas & Resolvers 
 const express = require('express');
 const bodyParser = require('body-parser');
 const { graphqlHTTP } = require('express-graphql');
